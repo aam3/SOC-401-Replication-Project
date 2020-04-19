@@ -1,4 +1,4 @@
-source('./R/word_utils.R')
+source('./R/shared/word_utils.R')
 
 wefat <- function(words_df, target, att1, att2) {
   #' Returns the association of the target concept with some set of attribute words

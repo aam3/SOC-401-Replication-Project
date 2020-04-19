@@ -1,4 +1,4 @@
-source('./R/word_utils.R')
+source('./R/shared/word_utils.R')
 
 ####WEAT METHOD function (method used for first half of tests)
 weat <- function(words_df, target1, target2, att1, att2) {
