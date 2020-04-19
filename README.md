@@ -4,3 +4,5 @@ This repository contains coding material to replicate the paper called "Semantic
 https://science.sciencemag.org/content/356/6334/183/tab-pdf
 
 This is a project from SOC 401: Advanced Social Statistics.
+
+**Note**: GloVe word embeddings are not in the data folder due to size. Download glove.840B.300d.zip at https://nlp.stanford.edu/projects/glove/.
